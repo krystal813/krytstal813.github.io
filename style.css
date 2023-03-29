@@ -9,23 +9,6 @@ body {
     min-height: 100vh;
   }
   
-  nav {
-    background-color: #0c4368;
-    overflow: hidden;
-  }
-
-  nav a {
-    float: right;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    text-decoration: solid;
-  }
-
-  .active {
-    background-color: #0c4368;
-  }
   #header {
     position: absolute;
     top: 0;
